@@ -1,6 +1,6 @@
 # Python Courses
 
-1. [Introduction to Python](1-Introduction-to-Python.ipynb)
+1. [Introduction to Python](https://github.com/hslu-dda/colabor-uncreative-machines-2025/blob/main/python-courses/1-Introduction-To-Python.ipynb)
 2. [Introduction to Text and NLP](2-Text-and-NLP-in-Python.ipynb)
 
 
