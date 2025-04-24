@@ -1,12 +1,21 @@
 # Python Courses
 
-## Setup
+1. [Introduction to Python](1-Introduction-to-Python.ipynb)
+2. [Introduction to Text and NLP](2-Text-and-NLP-in-Python.ipynb)
 
-Create and activate a virtual env
+
+## Setup to Work Locally
+
+Make sure that you have Python 3.11.5 installed. 
+
+Open the python-courses folder in VS code. Create and activate a virtual env using the built in terminal. 
+
 
 ```sh
 python -m venv .venv
 ```
+
+Activate the environment (this creates a Python kernel to run the notebook on)
 
 ```sh
 source .venv/bin/activate
@@ -24,7 +33,7 @@ To exit the virtual environment
 deactivate
 ```
 
-Update the requierments.txt
+To update the requierments.txt if necessary
 
 ```sh
 pip freeze > requirements.txt
